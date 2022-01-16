@@ -1,5 +1,4 @@
-# GeoSizer-Support
-Bug Tracker for GeoSizer
+# GeoSizer Support — Bug Tracker for GeoSizer
 
 <p align="center">
   <em>GeoSizer is the app that allows you highlight the shape of a given geographic feature (such as a continent, country, state, or province), and see what that shape looks like juxtaposed with a different part of the world!</em>
